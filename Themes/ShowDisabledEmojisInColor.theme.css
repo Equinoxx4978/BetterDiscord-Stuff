@@ -1,0 +1,12 @@
+/**
+ * @name ShowDisabledEmojisInColor
+ * @author Equinoxx
+ * @description Makes disabled emojis (normally in black & white) appear in color. Meant for use with the plugin Freemoji.
+ * @version 1.0.0
+ * @authorId 794087627925487648
+ */
+
+.emojiItemDisabled-3VVnwp {
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
+}
